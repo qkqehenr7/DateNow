@@ -138,6 +138,10 @@ DateNow는 특별한 데이트 경험을 선사하기 위해 다양한 핵심 �
 ## 🧩 시스템 아키텍처
 ![스크린샷 2025-06-19 111012](https://github.com/user-attachments/assets/3c702871-e2f1-4580-a236-a5afd03a50e9)
 
+## 🗃️ ERD 설계도
+![image](https://github.com/user-attachments/assets/cca38222-7d93-40c6-b2d3-7b9e820c7182)
+
+
 
 
 
